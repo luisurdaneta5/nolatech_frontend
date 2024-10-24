@@ -1,6 +1,6 @@
 # NOLATECH FRONTEND
 
-> This app shows the basics and useful features of [mapLibre.org](https://maplibre.org/) such as coordinates, countries, zoom range, markers and properties examples.
+> This repository is for applying for the fullstack position at nolatech
 
 ## Built With
 
@@ -56,15 +56,7 @@ To make sure the linters' checks using Github Actions work properly, you should 
 
 -   I recommend the use of VS code as a code editor, but you can use any code editor.
 
--   Run in your terminal `npm install`, then `npm start` OR `yarn start` to see the run the app in your default browser.
-
--   You should see the todo form ready to be used.
-
--   Add a name for the task owner (description is optional).
-
--   hit create button to create your todo.
-
--   You can either check it when DONE or remove it by hitting the trash icon.
+-   Run in your terminal `yarn install`,`yarn start` to see the run the app in your default browser.
 
 ## Authors
 
