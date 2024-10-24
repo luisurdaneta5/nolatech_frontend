@@ -59,7 +59,7 @@ To make sure the linters' checks using Github Actions work properly, you should 
 -   Run in your terminal `yarn install`,`yarn start` to see the run the app in your default browser.
 
 ## Authors
-
+git
 👤 **Luis Urdaneta**
 
 -   GitHub: [github](https://github.com/luisurdaneta5)
@@ -76,9 +76,6 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
--   This app was possible to make thanks to [mapLibre.org](https://maplibre.org/)
 
 ## 📝 License
 
